@@ -1,12 +1,5 @@
 {
-  "search-queries": [
-    "#giveaway",
-    "Giveaway",
-    "Like and Retweet",
-    "Like + Retweet",
-    "Like & Retweet",
-    "#Concours"
-  ],
+  "search-queries": ["#Concours", "Concours"],
   "follow-keywords": [" follow ", " follower ", "following"],
   "fav-keywords": [" fav ", " favorite ", " like "],
   "scan-update-time": 83,
