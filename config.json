@@ -1,0 +1,24 @@
+{
+  "search-queries": [
+    "#giveaway",
+    "Retweet and win",
+    "retweet and you could win",
+    "rt for your chance to win",
+    "#giveawayalert",
+    "win rt",
+    "#rttowin",
+    "#sweepstakes"
+  ],
+  "follow-keywords": [" follow ", " follower ", "following"],
+  "fav-keywords": [" fav ", " favorite ", " like "],
+  "scan-update-time": 83,
+  "retweet-update-time": 83,
+  "rate-limit-update-time": 83,
+  "min-ratelimit": 20,
+  "min-ratelimit-retweet": 75,
+  "min-ratelimit-search": 75,
+  "consumer-key": "UTvFJYZbtWddrOpRa3V9IB0yl",
+  "consumer-secret": "SihRsK05mLh7s6ut9l78pNo76hmmJKUw7yqWC2xPwDagnLx3gO",
+  "access-token-key": "1191307254835924998",
+  "access-token-secret": "wbtGP2aYoXHCxpge3bKyHMkvwdO4H8BuoO8fyPAHVIcES"
+}
