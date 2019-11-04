@@ -4,11 +4,6 @@ import time
 import json
 import os.path
 import sys
-from os import environ
-from flask import Flask
-
-app = Flask(__name__)
-app.run(environ.get('PORT'))
 
 # Load our configuration from the JSON file.
 with open('config.json') as data_file:
