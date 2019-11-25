@@ -1,16 +1,6 @@
 # twitter-contest-bot
-Will poll for Retweet Contests and retweet them. Inspired by http://www.hscott.net/twitter-contest-winning-as-a-service/
-
-[![Build Status](https://travis-ci.org/kurozael/twitter-contest-bot.svg?branch=master)](https://travis-ci.org/kurozael/twitter-contest-bot)
-
-Donate
-------------
-
-If you're feeling kind, feel free to throw some cash my way for a beer!
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G4J6TEGJ7X2WE">
-<img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif"/>
-</a>
+Will poll for Retweet Contests and retweet them. Forked from https://github.com/kurozael/twitter-contest-bot
+Edited for French Contests
 
 Disclaimer
 ------------
@@ -51,25 +41,6 @@ Installation
 3: Using Notepad (recommended) or your preferred editor open config.json. Fill in with your credentials. For information on how to get Twitter Creds: http://docs.inboundnow.com/guide/create-twitter-application/
 	
 4: Then run main.py. (Double click on file or main.py in command prompt) 
-
-
-Alternatives
--------------
-
-If you're looking for similar projects in alternative languages, check these out:
-
-* *(JavaScript)* https://github.com/raulrene/Twitter-ContestJS-bot
-
-
-Useful Links:
-
-https://steemit.com/twitter/@yoghurt/my-experiences-running-a-twitter-giveaway-bot
-
-https://rpiai.com/retweeting-to-win/
-
-https://steemit.com/programming/@kurozael/twitter-contest-bot
-
-https://www.vox.com/2015/10/5/9409017/hack-online-contest-win
 
 
 
