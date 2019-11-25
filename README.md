@@ -1,5 +1,8 @@
 # twitter-contest-bot
-Will poll for Retweet Contests and retweet them. Forked from https://github.com/kurozael/twitter-contest-bot
+Will poll for Retweet Contests and retweet them.
+
+Forked from https://github.com/kurozael/twitter-contest-bot
+
 Edited for French Contests
 
 Disclaimer
